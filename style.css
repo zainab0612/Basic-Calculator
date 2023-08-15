@@ -1,0 +1,16 @@
+.container {
+    width: 500px;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0));
+    backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    border: 1px solid rgba(0,0,0,0.37);
+    margin: 80px auto;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+body{
+    background-image: url(./patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
